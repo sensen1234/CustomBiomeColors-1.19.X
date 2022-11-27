@@ -1,2 +1,0 @@
-rootProject.name = 'CustomBiomeColors'
-include 'core', 'utils', '1_16', '1_17', '1_18'
